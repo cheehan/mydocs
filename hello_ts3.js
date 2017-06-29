@@ -1,0 +1,1 @@
+console.log('Hello World new file for TS-3');
